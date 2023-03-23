@@ -1,327 +1,253 @@
 Chau
 #0529
 
-Mkay — Today at 8:24 PM
-in those papers
-that might be needed
-Chau — Today at 8:26 PM
-Image
-Mkay — Today at 8:26 PM
-oh yeah ofc its just silk ceramics and shit
-Chau — Today at 8:29 PM
-yea the most notable one is just how the VOC hit the jackpot by trading Tonkin silk
-Mkay — Today at 8:29 PM
-yes all because of china
-silk is insanely desirable yet ours are relatively cheap
-compared to the only other guy thats trading silk at the time which is china
-besides that our country is also a hub for chinese goods
-so foreigners have more access to not just our silk but chinese silk too
-Chau — Today at 8:32 PM
-oh wait there's more
-after the 1660s
-the trade was on the decline
-Mkay — Today at 8:33 PM
-the dutch exited in 1699 right ?
-Chau — Today at 8:33 PM
-with futile efforts to revive the silk trade
-Chau — Today at 8:33 PM
-officially in 1700
-Mkay — Today at 8:33 PM
-alright were taking 1700
-Chau — Today at 8:34 PM
-let me do more research on this part
-(damn the file does not follow the timeline)
-Mkay — Today at 8:44 PM
-why did this happen
-Chau — Today at 8:45 PM
-ok im (partly) done with the research
-so there are many factors for this
-Mkay — Today at 8:46 PM
-no need to be detailed about this
-we dont have time to delve into it
-Chau — Today at 8:46 PM
+Chau — Yesterday at 10:01 PM
+you might think this is weird but ye that how i see those guys on reddit do it so
+(except for the github thing)
+Mkay — Yesterday at 10:02 PM
+they defo fucked with the bot itself
+now bri'ish
+Chau — Yesterday at 10:05 PM
+(bruh for bing ai you actually need to split the prompt)
+this is its answer btw
+Tonkin (Vietnam) was not renowned as a principal market for European companies but served as a supplementary place and intermediary in their East Asian trading networks during the seventeenth century. With its local products such as silk which could serve intra-Asian demand and its geography which meant that it lay on the route between the south and mainland China, both Tonkin attracted foreign merchants to trade there during this time1.
+Mkay — Yesterday at 10:15 PM
+works well in the circumstances part
+actually i might consider taking this instead
+Chau — Yesterday at 10:15 PM
+is that so
+anyways
+asides from this
+is the content almost done?
+Mkay — Yesterday at 10:16 PM
+yeah if were done with the british were pretty much done
+Chau — Yesterday at 10:16 PM
 ok
-2 main reasons then
-1st it was due to Lord Trinh Can and his attitude to foreign trades 
-2nd it was due to Tonkinese silk is inferior to Chinese or Bengali
-and despite VOC's efforts
-Mkay — Today at 8:51 PM
-reword this to những vị chúa trịnh đời sau như Trịnh Cán lại ngờ vực về những người nước ngoài
-Chau — Today at 8:51 PM
-they officially ended the trade in 1700
-Mkay — Today at 8:52 PM
-hmm a bit more specific ? 
-Chau — Today at 8:52 PM
-ok let me write a proper paragraph this time
-Tuy vậy, vào khoảng những năm 1660, việc giao thương qua công ty Đông Ấn Hà Lan ở Đàng Ngoài không còn gặp thuận lợi như trước đây khi gặp sự cạnh tranh của các loại lụa và gốm sứ chất lượng hơn từ Trung Quốc và Ấn Độ. Thêm vào đó, việc đình chiến với Đàng Trong và không còn phải thường xuyên nhập khẩu các loại vũ khí chiến đấu khiến vị chúa đời sau là Trịnh Căn không còn mặn mà gì với việc phát triển ngoại thương nữa. Mối quan hệ cứ thế dần bị suy giảm mặc cho những nỗ lực của công ty ĐÂHL, và đến năm 1700 thì lặng lẽ rời khỏi mảnh đất Đàng Ngoài 
-Chau — Today at 9:00 PM
-is this ok or is it needed to be more specific?
-source: Letter from the King of Tonkin concerning the Termination of the Trading Relations with the VOC, 10 February 1700 
-Mkay — Today at 9:03 PM
-not không phải đấu tranh với đàng trong
-đình chiến
-uhh
-yeaaaaaaa
-oh and nỗ lực gì
-what did they try
-Chau — Today at 9:05 PM
-the lord wanted the voc to get out of his land
-voc did not agree in the during the 1690s period
-but eventually gave up on tonkin
-the expansion of the ceramic trade helped prolong their relationship when the silk trade was stagnated due to low profits 
-Mkay — Today at 9:14 PM
-ahh alright
-i think this is ok
-wait wait wait this is just about the decline
-we only got the dutch and english mostly right
-Chau — Today at 9:18 PM
-the japan is no good?
-Mkay — Today at 9:19 PM
-we got japan china dutch and english right ?
-so weve done JP
-Chau — Today at 9:19 PM
-there's still the english
-but not much is about it
-the eic gave up midway
-Mkay — Today at 9:20 PM
-alrighty
-Chau — Today at 9:20 PM
-for the south china
-Mkay — Today at 9:20 PM
-we still need to talk about the trade itself between us and dutch tho
-Chau — Today at 9:21 PM
-o-ok
-should i just feed the files to ai?
-Mkay — Today at 9:21 PM
-yes
-do it
-if it works it works
-Chau — Today at 9:29 PM
-According to the web page context you provided, shortly after establishing trading relations with northern Vietnam in 1637, Dutch factors began to send Tonkinese silk cloths to Batavia (present-day Jakarta), where they were reloaded on board homeward-bound ships. The export volumes of Tonkinese silk piece-goods to the Netherlands in the first years were neither substantial nor regular in comparison to those sent to Japan. From the early 1640s, political turmoil in mainland China obstructed the regular influx of Chinese goods to Formosa and reduced the annual import volumes of Chinese products of the Company. As a consequence, VOC fostered the import of Tonkinese silk piece-goods to the Netherlands. In 1645 out of 135000 taels (approximately 385000 guilders) which VOC provided for Tonkin’s silk trade only 12600 taels (9.6%) was used for buying raw silk and silk piece-goods for Netherlands .
-Mkay — Today at 9:30 PM
-actually
-this fucks
-Chau — Today at 9:30 PM
-According to the web page context you provided, VOC maintained a factory in Tonkin with a few servants to purchase silk piece-goods for the Netherlands and Persia as well as musk and other miscellaneous items . However, there is no further information about the trade of musk between Tonkin and the Netherlands in this document.
-Mkay — Today at 9:30 PM
-wait lets just do this for every part
-Chau — Today at 9:30 PM
-real
-the power of gpt4
-Mkay — Today at 9:31 PM
-can gpt 3 do this
-Chau — Today at 9:31 PM
-idk
-i was using bing ai
-which runs on gpt4
-Mkay — Today at 9:31 PM
-wow that fucks
-just pump info for every part
-were doing this
-we just need to summarize
-Chau — Today at 9:32 PM
-Image
-Image
-Chau — Today at 9:33 PM
-which one are we going to do next? 
-Mkay — Today at 9:34 PM
-china
-Chau — Today at 9:36 PM
-(imagine reading pages per second)
-oh no it actually takes more time this time
-Mkay — Today at 9:40 PM
-faster than us still
-frfrfrfr
-Chau — Today at 9:45 PM
-i tried with different chatbots
-let me try again
-Mkay — Today at 9:48 PM
-it feels like somethings missing when i read that
-Chau — Today at 9:48 PM
+gotta speed run the video tmr then
+Mkay — Yesterday at 10:16 PM
+i wont be home until 9 tho
+but ill try
+Chau — Yesterday at 10:17 PM
+ok
+i just need some illustrations/ideas for vid ig
+wait nvm we got ai for that too
+at this rate i can get addicted to using ai for every single deadline bro 
+Mkay — Yesterday at 10:29 PM
+if were doing a video then ill need a lsightly witty introduction ngl
+well i think i can deal with that
+Chau — Yesterday at 10:33 PM
+Ok i now despawn 
+G9
+Mkay — Yesterday at 10:34 PM
+WAIT WAIT WAIT WHAT ABOUT THE BRIISH
+NOOOOO
+Chau — Yesterday at 10:34 PM
+Wat
+Mkay — Yesterday at 10:34 PM
+actually can we just do like
+The Dutch and the other countries
 yea
-the ai was confusing with northern vietnam and dang ngoai during trinh - nguyen phan tranh
-Mkay — Today at 9:50 PM
-my one prompt per day hasnt been used yet
-Chau — Today at 9:50 PM
-During the 17th century, trade between Tonkin (northern Vietnam) and China developed alongside piracy and resistance in the Gulf of Tonkin. This relationship specifically occurred on the Sino-Vietnamese water frontier 1. The Dutch, English and other foreign merchants were attracted to trade with both Tonkin and Cochin-China (southern Vietnam) during this time due to their local products such as silk which could serve intra-Asian demand 2.
-Mkay — Today at 9:50 PM
-drop the links and prompt you want
-Chau — Today at 9:51 PM
-it would be quite a gamble
-chatgpt sometimes refuses to read data from pdf files
-Mkay — Today at 9:52 PM
-but hey let just try
-Chau — Today at 9:52 PM
-7KH &KLQHVH
-China remained the main trading partner of i Vi t even after it became independent
-in the early tenth century. Although the Chinese Song dynasty banned its subjects from
-trading with several “ barbarous” lands, including Vietnam, until the early twelfth
-century, Chinese trading vessels sometimes “ drifted” to the southern neighbour of i
-Vi t, where they were warmly welcomed by local people. Upon their return, they
+Chau — Yesterday at 10:34 PM
+Ye
+Mkay — Yesterday at 10:35 PM
+The Dutch and the other western countries
+Chau — Yesterday at 10:35 PM
+Fuxk the brit
+So in the end do you still need the brit?
+Mkay — Yesterday at 10:36 PM
+are you an indian
+Mkay — Yesterday at 10:36 PM
+the brit is quite insignificant arent they
+Chau — Yesterday at 10:36 PM
+I mean just like the portuguese
+Mkay — Yesterday at 10:36 PM
+so uhh we can just count them as a lesser partner like Portugal
+yea just like em
+alright we wont need to go deep on the briish
+go to sleep man
+Chau — Yesterday at 10:37 PM
+Ok then
+Chau — Today at 8:56 AM
+• There was extensive trade between Tonkin and southern China during this period, especially the export of commercial crops from Tonkin to China such as pepper, cinnamon, lacquer, and textiles. Tonkin was seen as a "granary" for rice and a source of luxury goods for Guangdong province in China.
+
+• The trade was regulated through a system of 11 border markets on the China-Tonkin border. Chinese merchants would import silk, tea, porcelain, and metals into these markets to exchange for Tonkinese goods. Many Chinese migrants also settled in Tonkin during this time.
+
+• The trade was very profitable and important for the economy of both China and Tonkin. It generated revenues for the Nguyen lords who ruled Tonkin and supported their wars. For China, the goods from Tonkin catered to the rising demand for luxuries from its growing middle class.
+
+• The maritime trade also flourished during this period. Chinese junks would sail directly to ports in Tonkin like Haiphong to acquire goods. Tonkinese merchants also actively traded in Guangdong's ports. This led to cultural and economic exchange along the maritime route.
+
+• Conflicts between China and Tonkin disrupted trade at times. But rulers on both sides usually tried to limit the scope of wars to maintain the commercial ties. The trade gradually declined starting in the 19th century due to political turmoil and rise of Western imperialism in Vietnam.
+by Claude+ (an AI developed by former OpenAI employees)
+Chau — Today at 9:03 AM
+According to the provided text file, the trade between Tonkin (Northern Vietnam) and China in the 17th and 18th centuries was largely controlled by Chinese merchants. These merchants would travel to Tonkin with goods such as silk, porcelain, and tea, which they would exchange for raw materials such as rice, cotton, and buffalo hides. The trade was conducted through a system of guilds, which were organized by the Chinese merchants and controlled the pricing and distribution of goods. Despite this dominance, Tonkin was able to maintain some degree of autonomy in its trade with China, as evidenced by the fact that Vietnamese officials were able to negotiate favorable trade agreements with the Chinese government. Overall, the trade between Tonkin and China was a significant part of the economic and cultural exchange between the two countries during this period.
+(Tell me more.)
+
+During the 17th and 18th centuries, Tonkin was a part of the Kingdom of Dai Viet, which was ruled by the Le Dynasty. The Le rulers sought to maintain good relations with China, as China was a powerful neighbor and a major trading partner. The Chinese merchants who controlled the trade with Tonkin were known as the "fan" or "barbarian" merchants, as they were not subject to Chinese law and were viewed as outsiders by the Chinese government.
+
+Despite this status, the fan merchants were able to wield significant power in Tonkin through their control of the guilds. These guilds were organized by the fan merchants and regulated the prices and distribution of goods in Tonkin. The guilds also had the power to punish Vietnamese merchants who violated their rules.
+
+Despite the dominance of the fan merchants, the Vietnamese government was able to negotiate favorable trade agreements with the Chinese government. For example, in 1717, the Vietnamese king appointed a special envoy to Beijing to negotiate a new trade agreement with the Qing dynasty. The resulting agreement allowed Vietnamese merchants to trade directly with China, rather than having to go through the fan merchants.
+
+Overall, the trade between Tonkin and China during the 17th and 18th centuries was an important part of the economic and cultural exchange between the two countries. While the fan merchants held significant power in Tonkin, the Vietnamese government was able to maintain some degree of autonomy in its trade relations with China. 
+by Sage
+(do you have like the whole file for everything?)
+Chau — Today at 9:48 AM
+another script that Sage AI and I cooked 
+Here's a detailed script for an educational YouTube video about foreign trade in Tonkin during the 17th - 18th century period, including information about the Japanese:
+
+**Introduction**
+
+-   Introduce the topic of foreign trade in Tonkin during the 17th - 18th centuries, and explain why it is important to study this period.
+-   Provide some context about Tonkin, including its location and history.
 Expand
 message.txt
-11 KB
-Mkay — Today at 9:56 PM
-so whats the prompt
-Chau — Today at 9:56 PM
-let me cook
+5 KB
+Mkay — Today at 11:37 AM
+oh my fucking god
+part 5 should be removed
+my god i love bots
+Chau — Today at 9:26 PM
+bro you up?
+how should you present the vid?
+Mkay — Today at 9:34 PM
+Ill just go along the content you provided
+With slight adjustments in the way i present to make it sound more like a casual speech
+Chau — Today at 9:35 PM
+ok then
+and the dl is tonight?
+Mkay — Today at 9:35 PM
+Idk man
+Chau — Today at 9:35 PM
+plz be tmr
+Mkay — Today at 9:35 PM
+If we are too short on time we can do infographics
+But we only get a 9
+Im about to go insane rn but ill try to do the vid
+Chau — Today at 9:39 PM
+hmm actually we need the images rn
+can just reuse them like kraust
+Mkay — Today at 9:40 PM
+I mean yeah
+Chau — Today at 9:46 PM
+ehmm
+https://www.canva.com/design/DAFeBWPZ3Us/irZ360CsePqNBEH6WBLvrQ/edit?utm_content=DAFeBWPZ3Us&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Canva
+Your paragraph text
+Check out this Video designed by Trương Ngọc Minh Châu.
+some shit i just cooked
+Chau — Today at 10:04 PM
+get in the vc bro
+Mkay — Today at 10:04 PM
+Im taking a gosh darn shower but ok
+Chau — Today at 10:24 PM
+https://huggingface.co/spaces/merve/ChatGPT-prompt-generator
+ChatGPT Prompt Generator - a Hugging Face Space by merve
+ChatGPT Prompt Generator - a Hugging Face Space by merve
+Chau — Today at 10:29 PM
+.
+Mkay — Today at 10:31 PM
+frfrfrfrfr
+Image
+can you make a script for a 5 minutes long video according to this outline and these datas:
+Outline:
+Introduction
+
+    Introduce the topic of foreign trade in Tonkin during the 17th - 18th centuries, and explain why it is important to study this period.
+    Provide some context about Tonkin, including its location and history.
+Expand
+message.txt
+12 KB
 ﻿
-7KH &KLQHVH
-China remained the main trading partner of i Vi t even after it became independent
-in the early tenth century. Although the Chinese Song dynasty banned its subjects from
-trading with several “ barbarous” lands, including Vietnam, until the early twelfth
-century, Chinese trading vessels sometimes “ drifted” to the southern neighbour of i
-Vi t, where they were warmly welcomed by local people. Upon their return, they
-carried home valuable cargoes of textiles and cash.
-68 The thirteenth-century Mongol
-conquest of China severely affected the opportunity of Chinese merchants to trade with
-Vietnam. It also forced i Vi t to reduce its foreign trade and impose a strict control
-on foreign traders to its country to prevent the infiltration of Chinese spies. After
-successfully expelling the Ming occupation and restoring the independence of the
-country in 1428, the Lê dynasty relaxed the state vigilance on Chinese merchants a
-little. Even so, foreign merchants were allowed to reside and trade at nine appointed
-trading-places only. In the southern provinces of Ngh An and Hà T QK &KLQHVH
-merchants could also trade at three market-places.
-69
-In general, despite its relaxation of
-policies towards foreign trade, the Lê dynasty continued to exert vigilance in dealing
-with foreign trade as well as with foreign merchants trading in its territories. The Lê
-Code which was in force at the end of the fifteenth century, for instance, included
-several articles strictly regulating foreign merchants, especially the Chinese.
-70
-Despite the Vietnamese rulers’ harsh measures against them, Chinese merchants
-were not deterred from regularly visiting Vietnam. It is presumed that they were the
-major carriers of Vietnamese ceramics to the international market during the first half of
-the sixteenth century. In his 6XPPD 2ULHQWDO written in the early 1500s, Tomé Pires
-noted that the Vietnamese “ … rarely come to Malacca in their junks. They go to China,
-to Canton [… ] to join up with the Chinese; then they come for merchandise with the
- 
-67 Dampier, 9R\DJHV DQG 'LVFRYHULHV, 49.
-68 Momoki Shiro, “ Dai Viet”: 1-34.
-69
-Idem.
-70
-See Articles 612-616 of the Lê Code of 4X F 7UL X KuQK OX W, 221-223.
-ECONOMIC BACKGROUND 47
-Chinese in their junks”.
-71 After the Ming lifted its ban on foreign trade in 1567, the
-number of Chinese junks trading to i Vi t presumably increased, despite the fact that
-the number of ZHQ\LQ, the licence granted by Chinese authorities to junks sailing
-abroad, issued for northern Vietnam was relatively small. This official figure is
-contradicted by a late sixteenth-century account which states there was a great number
-of Chinese vessels leaving Chinese ports for neighbouring countries either with or
-without a licence issued clandestinely by governors of China’s southern seaports.
-72
-These “ neighbouring countries” certainly included i Vi t, considering the shortness
-of the voyage as well as the long-standing trading relationship between the two
-countries. Another Chinese document written in 1593 reveals the fact that despite the
-Ming prohibition on Chinese people from trading with the Japanese, “ … villainous
-merchants recklessly send goods to Giao-chi and other places where Japanese come to
-trade with them.” “ Giao-chi” (Jiaozhi) here obviously refers to i Vi t or northern
-Vietnam.
-73 The statement contained in this document is strongly supported by the fact
-that by the early 1590s, Japanese VKXLQVHQ began to visit northern Vietnam.
-74
-The more open attitude of the Vietnamese M c dynasty (1527-1592) towards
-foreign trade encouraged Chinese merchants who wished to trade with i Vi t. The
-number of overseas Chinese residing in northern Vietnam seemed to grow constantly
-throughout the sixteenth and seventeenth centuries. Since i Vi t needed to exchange
-surplus handicraft products for precious metals and other necessities, the Vietnamese
-feudal rulers had to thaw their frigid attitude towards the expansion of foreign trade.
-The Chinese and other foreigners reportedly resided and traded in inland commercial
-centres such as Ph Hi n DQG 7K QJ /RQJ
-75
-The Chinese community in the capital grew so quickly that in 1650, the court,
-mindful of the ongoing political turmoil in China after the collapse of the Ming dynasty
-in 1644, ordered all foreigners, but with the Chinese especially in mind, to be moved to
-the southern quarters of Thanh Trì and Khuy Q / QJ ZKLFK ZHUH DERXW ILYH
-kilometres from the capital.
-76 Although the implementation of this plan was delayed and
-foreign merchants continued to live in the capital, the concern of the court about the
-Chinese did not diminish. During the 1663 nationwide survey on foreigners residing in
-Tonkin, the Chinese were split into two categories: permanent and temporary residents.
-Three years later, the court ordered that Chinese who wanted to live permanently in
- 
-71
-Pires, 6XPPD 2ULHQWDO, 115.
-72
-Juan Gonzalez de Mendoza, 7KH +LVWRU\ RI WKH *UHDW DQG 0LJKW\ .LQJGRP RI &KLQD, reprinted from
-the translation of R. Parke and edited by Sir George T. Staunton (London: Hakluyt Society, 1853), 95.
-Details on the ZHQ\LQ licences issued for various destinations between 1589 and 1592 can be found in
-Innes 7KH 'RRU $MDU, 53.
-73
-“ Giao-chi” was a Chinese name for northern Vietnam. Innes (7KH 'RRU $MDU, 54), however, believed
-that the “ Giao-chi” mentioned in this record referred to H L $Q )DLIR LQ FHQWUDO 9LHWQDP
-74
-Innes, 7KH 'RRU $MDU, 56.
-75 Chau Hai, “ The Chinese in Pho Hien and Their Relations with Other Chinese in other Urban Areas of
-Vietnam”, in 3KR +LHQ, 211.
-76 *HQHUDOH 0LVVLYHQ II, 450-452; Fujiwara, “ The Regulation of the Chinese”, 97-98.
-48 CHAPTER TWO
-Tonkin had to register as a member of Vietnamese families and adopt Vietnamese
-customs which would involve changing their hairstyle, the way of dress, and the like. In
-1687, the Government stepped up its control of the overseas Chinese, forcing them to
-OHDYH WKH FDSLWDO 7K QJ /RQJ IRU VXUURXQGLQJ DUHDV $IWHU WKLV XNDVH WKH &KLQHVH FRXOG
-only visit the capital with a written permission granted by local authorities. Smarting
-from these harsh regulations, with the exception of those who were content to move to
-Ph Hi n, most of the Chinese left Tonkin for other countries.
-77
-In order to compete with other foreign merchants trading in Tonkin, the overseas
-Chinese established a solid trading network to promote mutual assistance. Wealthy
-Chinese owned silk workshops and willingly offered their products to their countrymen
-at reasonable prices. Chinese middlemen gathered local goods during the off season and
-sold them to Chinese merchants during the trading season. There is abundant evidence
-that most of the Chinese junks arriving annually in Tonkin were involved in the export
-of Tonkinese silk to Japan. Utilizing their well-established trading networks, these
-Chinese wasted no time in buying cargoes of silk and left for Japan before the Dutch
-were in a position to do so. After the autumn sale in Nagasaki, these Chinese merchants
-returned to Tonkin with sufficient quantities of Japanese silver to purchase more
-Vietnamese silks.
-Besides relying on their solid trading networks, the Chinese sometimes received
-financial support from Japanese officials who secretly invested money in the TonkinJapan silk trade. In the 1646-1647 trading season, for instance, a part of the 80,000 taels
-which the Chinese brought to Tonkin was contributed by Japanese officials in Nagasaki.
-In Tonkin, by offering higher prices to local silk-producers, the Chinese had no problem
-acquiring 400 piculs of raw silk and a large number of silk piece-goods and departed for
-Japan in early July. Only after the Chinese had sailed away could the Dutch begin their
-transactions and then leave for Japan in August.
-78 Although the Tonkin-Japan silk trade
-showed a steady decline from the mid-1650s, a considerable number of Chinese
-merchants were still involved in this trade route. As revealed from the journal registers
-of the English factory in Tonkin, the English failure to export local silk to London was
-often caused by the fierce Chinese competition. In 1676, for instance, the English
-factory could not purchase enough silk piece-goods for Europe because five Chinese
-junks had “ … swept the country of what silk was made”.
-79
-Besides the Chinese involved in the Tonkin-Japan silk trade, there was a small
-number of overseas Chinese trading between Tonkin and other South-East Asian ports,
-but the volume of this trade was relatively small. Another community of overseas
-Chinese in northern Vietnam was involved in the Tonkin-China border trade. These
-Chinese, co-operating with Vietnamese merchants, re-exported such foreign
- 
-77 & QJ P F, 300; Fujiwara, “ The Regulation of the Chinese”, 97; Chau Hai, “ The Chinese in Pho
-Hien”, 210-216.
-78 Buch, “ La Compagnie” (1937): 124.
-79 BL OIOC G/12/17-4: 216-220, English factory in Tonkin to Banten, 30 Nov. 1677.
-ECONOMIC BACKGROUND 49
-merchandise as South-East Asian spices and European textiles from northern Vietnam
-to southern China. The return trade consisted of, among other miscellaneous items,
-Chinese gold and musk which were in great demand among European merchants in
-Tonkin. This border trade seemed to flourish from the early 1650s, profiting from the
-stagnation of the mainland China-Formosa trade which diverted the flow of Chinese
-gold and musk to northern Vietnam at the expense of Formosa. After a little more than a
-decade, from the early 1660s, the Tonkin-China border trade was very adversely
-affected by the political chaos in southern China.
-80
-Commercial setbacks in conjunction with the measures taken by the court from the
-mid-seventeenth century which damaged the Chinese, discouraged Chinese merchants
-from maintaining their trade with the Lê/Tr nh domain. After having been expelled from
-WKH FDSLWDO 7K QJ /RQJ LQ WKH ODWH V D ODUJH QXPEHU RI RYHUVHDV &KLQHVH GHFLGHG WR
-leave Tonkin for other countries. Those who were content to move to Ph Hi n and the
-border town of Qu ng Yên in the present-day north-eastern province of Qu ng Ninh
-continued to trade, albeit on a lesser scale. By the late seventeenth century, the Dutch,
-who had vainly tried to establish a permanent factory at Qu ng Yên in the early 1660s,
-noted that this town had been transformed into a commercial hub in the wake of the
-UHPRYDO RI WKH &KLQHVH WR WKLV SODFH $OWKRXJK VXFK LQODQG FRPPHUFLDO SODFHV DV 7K QJ
-Long and Ph Hi n rapidly declined from the late 1680s, profiting from the presence of
-the Chinese, Qu ng Yên continued to thrive in the next century.
-81
+can you make a script for a 5 minutes long video according to this outline and these datas:
+Outline:
+Introduction
+
+    Introduce the topic of foreign trade in Tonkin during the 17th - 18th centuries, and explain why it is important to study this period.
+    Provide some context about Tonkin, including its location and history.
+
+Part 1: Tonkin as a Trading Hub
+
+    Explain how Tonkin was situated in a key location for trade between China, Japan, and Southeast Asia.
+    Discuss the major goods that were traded in Tonkin during this period, including silk, tea, porcelain, spices, silver, and copper.
+    Highlight the importance of Tonkin's ports, including Hoi An and Haiphong, in facilitating trade.
+
+Part 2: European Trade and Influence
+
+    Discuss how European powers, including the Dutch, Portuguese, and French, began to establish trading posts in Tonkin during this period.
+    Explain how European trade impacted Tonkin's economy and society, including the introduction of new goods and technologies.
+    Discuss the tensions that arose between European powers and the Vietnamese authorities, including conflicts over trade regulations and territorial disputes.
+    Highlight the role of the Tonkinese mandarins in managing foreign trade, including their efforts to balance the interests of European traders and the Vietnamese state.
+
+Part 3: Chinese Trade and Influence
+
+    Discuss the significant role that Chinese merchants played in Tonkin's foreign trade during this period.
+    Explain how Chinese trade impacted Tonkin's economy and society, including the introduction of new goods and technologies.
+    Discuss the cultural and linguistic connections between Tonkin and China, and how these connections influenced trade relations.
+    Highlight the tensions that arose between the Tonkinese and Chinese merchants, including conflicts over pricing and quality control.
+
+Part 4: Japanese Trade and Influence
+
+    Discuss the role of the Japanese in Tonkin's foreign trade during this period, including their efforts to establish trade links with the region.
+    Explain how the Japanese brought in silver and copper, and exported textiles and porcelain to Tonkin.
+    Discuss the impact of Japanese trade on Tonkin's economy and society, including the introduction of new technologies and cultural practices.
+    Highlight the tensions that arose between the Tonkinese and Japanese merchants, including conflicts over pricing and quality control.
+
+Part 5: Piracy and Its Impact on Trade
+
+    Discuss the problem of piracy in the Tonkin region during this period, including the activities of pirate groups such as the Red Flag Fleet.
+    Explain how piracy impacted trade in Tonkin, including the disruption of trade routes and the danger faced by merchants.
+    Discuss the efforts made by the Vietnamese authorities and foreign powers to combat piracy, including the establishment of naval patrols and the use of privateers.
+    Highlight the ways in which piracy influenced trade relations and the development of maritime law in the region.
+
+Part 6: Societal Impact of Foreign Trade
+
+    Explain how foreign trade impacted Tonkin's society and culture during this period.
+    Discuss the economic development that was spurred by foreign trade, including the introduction of new goods and technologies and the funding of infrastructure projects.
+    Highlight the cultural exchange that occurred as a result of foreign trade, including the adoption of new fashions and culinary practices.
+    Discuss the political instability that was created by foreign trade, including the tensions between European powers, Vietnamese authorities, and different merchant groups.
+    Explain how foreign trade contributed to wealth disparities within Tonkin, with some merchants and traders amassing significant wealth while others struggled to make a living.
+    Discuss the legacy of foreign trade in Tonkin, including its lasting impact on the region's economy, society, and culture.
+
+Conclusion
+
+    Summarize the key ideas presented in the video, and emphasize the importance of studying foreign trade in Tonkin during the 17th - 18th centuries.
+
+    Provide some suggestions for further reading or research on this topic.
+    Datas:
+
+    According to the provided text file, the trade between Tonkin (Northern Vietnam) and China in the 17th and 18th centuries was largely controlled by Chinese merchants. These merchants would travel to Tonkin with goods such as silk, porcelain, and tea, which they would exchange for raw materials such as rice, cotton, and buffalo hides. The trade was conducted through a system of guilds, which were organized by the Chinese merchants and controlled the pricing and distribution of goods. Despite this dominance, Tonkin was able to maintain some degree of autonomy in its trade with China, as evidenced by the fact that Vietnamese officials were able to negotiate favorable trade agreements with the Chinese government. Overall, the trade between Tonkin and China was a significant part of the economic and cultural exchange between the two countries during this period.
+
+    During the 17th and 18th centuries, Tonkin was a part of the Kingdom of Dai Viet, which was ruled by the Le Dynasty. The Le rulers sought to maintain good relations with China, as China was a powerful neighbor and a major trading partner. The Chinese merchants who controlled the trade with Tonkin were known as the "fan" or "barbarian" merchants, as they were not subject to Chinese law and were viewed as outsiders by the Chinese government.
+
+Despite this status, the fan merchants were able to wield significant power in Tonkin through their control of the guilds. These guilds were organized by the fan merchants and regulated the prices and distribution of goods in Tonkin. The guilds also had the power to punish Vietnamese merchants who violated their rules.
+
+Despite the dominance of the fan merchants, the Vietnamese government was able to negotiate favorable trade agreements with the Chinese government. For example, in 1717, the Vietnamese king appointed a special envoy to Beijing to negotiate a new trade agreement with the Qing dynasty. The resulting agreement allowed Vietnamese merchants to trade directly with China, rather than having to go through the fan merchants.
+
+Overall, the trade between Tonkin and China during the 17th and 18th centuries was an important part of the economic and cultural exchange between the two countries. While the fan merchants held significant power in Tonkin, the Vietnamese government was able to maintain some degree of autonomy in its trade relations with China.
+
+• There was extensive trade between Tonkin and southern China during this period, especially the export of commercial crops from Tonkin to China such as pepper, cinnamon, lacquer, and textiles. Tonkin was seen as a "granary" for rice and a source of luxury goods for Guangdong province in China.
+
+• The trade was regulated through a system of 11 border markets on the China-Tonkin border. Chinese merchants would import silk, tea, porcelain, and metals into these markets to exchange for Tonkinese goods. Many Chinese migrants also settled in Tonkin during this time.
+
+• The trade was very profitable and important for the economy of both China and Tonkin. It generated revenues for the Nguyen lords who ruled Tonkin and supported their wars. For China, the goods from Tonkin catered to the rising demand for luxuries from its growing middle class.
+
+• The maritime trade also flourished during this period. Chinese junks would sail directly to ports in Tonkin like Haiphong to acquire goods. Tonkinese merchants also actively traded in Guangdong's ports. This led to cultural and economic exchange along the maritime route.
+
+• Conflicts between China and Tonkin disrupted trade at times. But rulers on both sides usually tried to limit the scope of wars to maintain the commercial ties. The trade gradually declined starting in the 19th century due to political turmoil and rise of Western imperialism in Vietnam.
+
+    Tonkin (Vietnam) was not renowned as a principal market for European companies but served as a supplementary place and intermediary in their East Asian trading networks during the seventeenth century. With its local products such as silk which could serve intra-Asian demand and its geography which meant that it lay on the route between the south and mainland China, both Tonkin attracted foreign merchants to trade there during this time.
+    After reading the provided text file and conducting additional research, it can be summarized that the trade between Tonkin (now known as Vietnam) and China during the 17th and 18th century was largely based on the exchange of goods such as silk, porcelain, tea, and spices.
+
+The trade was facilitated through maritime routes, with Chinese merchants frequently visiting Tonkin to exchange their goods for local products such as rice, cotton, and tobacco. However, the trade was heavily controlled by the Chinese government, which imposed strict regulations on the amount and types of goods that could be traded.
+
+Despite the restrictions, the trade between Tonkin and China flourished during this period, with both sides benefiting economically. However, the relationship between the two countries was not always amicable, as conflicts over territorial disputes and piracy often disrupted the trade.
+
+Overall, the trade between Tonkin and China in the 17th and 18th century played a significant role in shaping the economic and political landscape of Southeast Asia, and continues to influence the region today.
+
+    Một trong những đối tác giao thương lớn ở Đàng Ngoài là Nhật Bản. 30 năm đầu tiên của thế kỷ 16 là thời kỳ mà quan hệ thượng mại giữa 2 bên phát triển thịnh vượng. Lượng lớn tơ lụa được vận chuyển để đổi lấy bạc từ Việt Nam đến Nhật Bản, do không thể nhập từ Trung Quốc trong bối cảnh đất nước này đang áp dụng biện pháp cấm cửa. Ngoài ra, chúa Trịnh trực tiếp quản lý việc nhập các mặt hàng như vũ khí, kim loại và thuốc súng, phục vụ cho chiến tranh với Đàng Trong. Hầu hết các chuyến tàu là vào tháng 11 đến tháng 4 năm sau, còn gọi là "Mùa mậu dịch" vì đây là khoảng thời gian nước sông thuận lợi cho tàu thuyền ra vào.
+    Vào khoảng năm 1630, quan hệ thương mại giữa Đàng Ngoài và Nhật Bản bị suy yếu khi Mạc chủ Nhật Bản không hài lòng với thái độ của Chúa Trịnh và có thiên hướng về Đàng Trong. Đây là lúc Bồ Đào Nha nhảy vào và lên kế hoạch làm người vận chuyển hàng hoá giữa Đàng Ngoài và Nhật Bản. Tuy vậy, họ đã thất bại khi đến năm 1639, Bồ Đào Nha không được phép đặt chân vào Nhật Bản do lệnh Toả quốc.
+    Giao thương giữa Đàng Ngoài và Nhật Bản không chấm dứt ở đó mà được tiếp tục thông qua các thương nhân người Hoa và Hà Lan tới tận thế kỷ 18.
+
+Điều khác biệt so với Đàng Trong là ở Đàng Ngoài không hình thành các phố Nhật, do chính quyền Lê - Trịnh lo sợ sự xâm nhập của các thương nhân ngoại quốc.
+message.txt
+12 KB
