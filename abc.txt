@@ -1,73 +1,8 @@
-Chau
-#0529
-
-Chau — Yesterday at 10:01 PM
-you might think this is weird but ye that how i see those guys on reddit do it so
-(except for the github thing)
-Mkay — Yesterday at 10:02 PM
-they defo fucked with the bot itself
-now bri'ish
-Chau — Yesterday at 10:05 PM
-(bruh for bing ai you actually need to split the prompt)
-this is its answer btw
 Tonkin (Vietnam) was not renowned as a principal market for European companies but served as a supplementary place and intermediary in their East Asian trading networks during the seventeenth century. With its local products such as silk which could serve intra-Asian demand and its geography which meant that it lay on the route between the south and mainland China, both Tonkin attracted foreign merchants to trade there during this time1.
-Mkay — Yesterday at 10:15 PM
-works well in the circumstances part
-actually i might consider taking this instead
-Chau — Yesterday at 10:15 PM
-is that so
-anyways
-asides from this
-is the content almost done?
-Mkay — Yesterday at 10:16 PM
-yeah if were done with the british were pretty much done
-Chau — Yesterday at 10:16 PM
-ok
-gotta speed run the video tmr then
-Mkay — Yesterday at 10:16 PM
-i wont be home until 9 tho
-but ill try
-Chau — Yesterday at 10:17 PM
-ok
-i just need some illustrations/ideas for vid ig
-wait nvm we got ai for that too
-at this rate i can get addicted to using ai for every single deadline bro 
-Mkay — Yesterday at 10:29 PM
-if were doing a video then ill need a lsightly witty introduction ngl
-well i think i can deal with that
-Chau — Yesterday at 10:33 PM
-Ok i now despawn 
-G9
-Mkay — Yesterday at 10:34 PM
-WAIT WAIT WAIT WHAT ABOUT THE BRIISH
-NOOOOO
-Chau — Yesterday at 10:34 PM
-Wat
-Mkay — Yesterday at 10:34 PM
-actually can we just do like
-The Dutch and the other countries
-yea
-Chau — Yesterday at 10:34 PM
-Ye
-Mkay — Yesterday at 10:35 PM
-The Dutch and the other western countries
-Chau — Yesterday at 10:35 PM
-Fuxk the brit
-So in the end do you still need the brit?
-Mkay — Yesterday at 10:36 PM
-are you an indian
-Mkay — Yesterday at 10:36 PM
-the brit is quite insignificant arent they
-Chau — Yesterday at 10:36 PM
-I mean just like the portuguese
-Mkay — Yesterday at 10:36 PM
-so uhh we can just count them as a lesser partner like Portugal
-yea just like em
-alright we wont need to go deep on the briish
-go to sleep man
-Chau — Yesterday at 10:37 PM
-Ok then
-Chau — Today at 8:56 AM
+
+___
+
+
 • There was extensive trade between Tonkin and southern China during this period, especially the export of commercial crops from Tonkin to China such as pepper, cinnamon, lacquer, and textiles. Tonkin was seen as a "granary" for rice and a source of luxury goods for Guangdong province in China.
 
 • The trade was regulated through a system of 11 border markets on the China-Tonkin border. Chinese merchants would import silk, tea, porcelain, and metals into these markets to exchange for Tonkinese goods. Many Chinese migrants also settled in Tonkin during this time.
@@ -80,7 +15,6 @@ Chau — Today at 8:56 AM
 by Claude+ (an AI developed by former OpenAI employees)
 Chau — Today at 9:03 AM
 According to the provided text file, the trade between Tonkin (Northern Vietnam) and China in the 17th and 18th centuries was largely controlled by Chinese merchants. These merchants would travel to Tonkin with goods such as silk, porcelain, and tea, which they would exchange for raw materials such as rice, cotton, and buffalo hides. The trade was conducted through a system of guilds, which were organized by the Chinese merchants and controlled the pricing and distribution of goods. Despite this dominance, Tonkin was able to maintain some degree of autonomy in its trade with China, as evidenced by the fact that Vietnamese officials were able to negotiate favorable trade agreements with the Chinese government. Overall, the trade between Tonkin and China was a significant part of the economic and cultural exchange between the two countries during this period.
-(Tell me more.)
 
 During the 17th and 18th centuries, Tonkin was a part of the Kingdom of Dai Viet, which was ruled by the Le Dynasty. The Le rulers sought to maintain good relations with China, as China was a powerful neighbor and a major trading partner. The Chinese merchants who controlled the trade with Tonkin were known as the "fan" or "barbarian" merchants, as they were not subject to Chinese law and were viewed as outsiders by the Chinese government.
 
@@ -99,66 +33,9 @@ Here's a detailed script for an educational YouTube video about foreign trade in
 
 -   Introduce the topic of foreign trade in Tonkin during the 17th - 18th centuries, and explain why it is important to study this period.
 -   Provide some context about Tonkin, including its location and history.
-Expand
-message.txt
-5 KB
-Mkay — Today at 11:37 AM
-oh my fucking god
-part 5 should be removed
-my god i love bots
-Chau — Today at 9:26 PM
-bro you up?
-how should you present the vid?
-Mkay — Today at 9:34 PM
-Ill just go along the content you provided
-With slight adjustments in the way i present to make it sound more like a casual speech
-Chau — Today at 9:35 PM
-ok then
-and the dl is tonight?
-Mkay — Today at 9:35 PM
-Idk man
-Chau — Today at 9:35 PM
-plz be tmr
-Mkay — Today at 9:35 PM
-If we are too short on time we can do infographics
-But we only get a 9
-Im about to go insane rn but ill try to do the vid
-Chau — Today at 9:39 PM
-hmm actually we need the images rn
-can just reuse them like kraust
-Mkay — Today at 9:40 PM
-I mean yeah
-Chau — Today at 9:46 PM
-ehmm
-https://www.canva.com/design/DAFeBWPZ3Us/irZ360CsePqNBEH6WBLvrQ/edit?utm_content=DAFeBWPZ3Us&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-Canva
-Your paragraph text
-Check out this Video designed by Trương Ngọc Minh Châu.
-some shit i just cooked
-Chau — Today at 10:04 PM
-get in the vc bro
-Mkay — Today at 10:04 PM
-Im taking a gosh darn shower but ok
-Chau — Today at 10:24 PM
-https://huggingface.co/spaces/merve/ChatGPT-prompt-generator
-ChatGPT Prompt Generator - a Hugging Face Space by merve
-ChatGPT Prompt Generator - a Hugging Face Space by merve
-Chau — Today at 10:29 PM
-.
-Mkay — Today at 10:31 PM
-frfrfrfrfr
-Image
-can you make a script for a 5 minutes long video according to this outline and these datas:
-Outline:
-Introduction
 
-    Introduce the topic of foreign trade in Tonkin during the 17th - 18th centuries, and explain why it is important to study this period.
-    Provide some context about Tonkin, including its location and history.
-Expand
-message.txt
-12 KB
-﻿
-can you make a script for a 5 minutes long video according to this outline and these datas:
+___
+
 Outline:
 Introduction
 
@@ -212,8 +89,7 @@ Conclusion
 
     Summarize the key ideas presented in the video, and emphasize the importance of studying foreign trade in Tonkin during the 17th - 18th centuries.
 
-    Provide some suggestions for further reading or research on this topic.
-    Datas:
+___
 
     According to the provided text file, the trade between Tonkin (Northern Vietnam) and China in the 17th and 18th centuries was largely controlled by Chinese merchants. These merchants would travel to Tonkin with goods such as silk, porcelain, and tea, which they would exchange for raw materials such as rice, cotton, and buffalo hides. The trade was conducted through a system of guilds, which were organized by the Chinese merchants and controlled the pricing and distribution of goods. Despite this dominance, Tonkin was able to maintain some degree of autonomy in its trade with China, as evidenced by the fact that Vietnamese officials were able to negotiate favorable trade agreements with the Chinese government. Overall, the trade between Tonkin and China was a significant part of the economic and cultural exchange between the two countries during this period.
 
@@ -249,5 +125,3 @@ Overall, the trade between Tonkin and China in the 17th and 18th century played 
     Giao thương giữa Đàng Ngoài và Nhật Bản không chấm dứt ở đó mà được tiếp tục thông qua các thương nhân người Hoa và Hà Lan tới tận thế kỷ 18.
 
 Điều khác biệt so với Đàng Trong là ở Đàng Ngoài không hình thành các phố Nhật, do chính quyền Lê - Trịnh lo sợ sự xâm nhập của các thương nhân ngoại quốc.
-message.txt
-12 KB
